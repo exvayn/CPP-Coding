@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <iostream>
-// ДААааааа!!! С 4 попытки!! целый день на 1 задание.
+// Р”РђРђР°Р°Р°Р°Р°!!! РЎ 4 РїРѕРїС‹С‚РєРё!! С†РµР»С‹Р№ РґРµРЅСЊ РЅР° 1 Р·Р°РґР°РЅРёРµ.
 void main(){
 	int n,m,k,i,tk,tk1,tt,uk,t,s,s1;
 	scanf("%d %d %d",&n,&m,&k);
@@ -37,9 +37,9 @@ void main(){
 }
 
 
-/* Time limit exceeded. долгий метод..
+/* Time limit exceeded. РґРѕР»РіРёР№ РјРµС‚РѕРґ..
 
-1 попытка
+1 РїРѕРїС‹С‚РєР°
 void main(){
 	int n,m,k,i,f,tk,tt,uk;
 	scanf("%d %d %d",&n,&m,&k);
@@ -71,7 +71,7 @@ void main(){
 	system("pause");
 }
 
-2 попытка
+2 РїРѕРїС‹С‚РєР°
 
 #include <stdio.h>
 #include <iostream>
@@ -108,7 +108,7 @@ void main(){
 	system("pause");
 }
 
-3 попытка
+3 РїРѕРїС‹С‚РєР°
 
 void main(){
 	int n,m,k,i,tk,tt,uk,t,s;
