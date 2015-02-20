@@ -7,14 +7,14 @@ int main(void)
 setlocale(0,"RUS");
 int a, b, n, i;
 do{
-printf ("Ââåäèòå 'à' b 'á': ");
+printf ("Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ 'Ð°' b 'Ð±': ");
 scanf("%d %d",&a, &b);
-if (a>b) printf ("a íå ìîæåò áûòü ìåíüøå b !!!!! \n \n");
+if (a>b) printf ("a Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ‚ Ð±Ñ‹Ñ‚ÑŒ Ð¼ÐµÐ½ÑŒÑˆÐµ b !!!!! \n \n");
 } while (a>b);
 n=0;
 for (i=a;i<=b;i++) if (i%7==0) n++;
 
-printf ("\n\nÈñêîìîå ÷èñëî ðàâíî: %d", n);
+printf ("\n\nÐ˜ÑÐºÐ¾Ð¼Ð¾Ðµ Ñ‡Ð¸ÑÐ»Ð¾ Ñ€Ð°Ð²Ð½Ð¾: %d", n);
 getch();
 return(0);
 }
